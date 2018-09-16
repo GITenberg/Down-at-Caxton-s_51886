@@ -1,0 +1,31 @@
+_repo: Down-at-Caxton-s_51886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McDermott, William A.
+    alias: Lecky, Walter
+    birthdate: 1863
+    deathdate: 1913
+    gutenberg_agent_id: '46592'
+    url: http://www.gutenberg.org/2009/agents/46592
+description: ''
+gutenberg_issued: '2016-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51886'
+  lccn: '18011036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Catholic authors -- History and criticism'
+- !lcc 'PS'
+- !lcsh 'American literature -- 19th century -- History and criticism'
+- GITenberg
+tableOfContents: Richard Malcolm Johnston -- Marion Crawford -- Charles Warren Stoddard
+  -- Maurice Francis Egan -- John B. Tabb -- James Jeffrey Roche -- George Parsons
+  Lathrop -- Rev. Brother Azarias -- Katherine Eleanor Conway -- Louise Imogen Guiney
+  -- Mrs. Blake -- Agnes Repplier -- Literature and our Catholic poor.
+title: Down at Caxton's
+url: http://www.gutenberg.org/ebooks/51886
